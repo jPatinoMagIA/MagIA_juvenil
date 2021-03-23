@@ -56,7 +56,7 @@ determina(3);
 determina(45);
 determina(24);
 determina(36);
-*/
+
 //---EJERCICIO 2---
 //FUNCIÓN que determine si un texto introducido contien Mayusculas, Minusculas o ambas. 
 function determinaTexto(texto){
@@ -72,7 +72,7 @@ function determinaTexto(texto){
 determinaTexto("Hola Juanito como ESTAS?");
 determinaTexto("hola como estas?");
 determinaTexto("HOLAA COMO ESTAS?");
-
+*/
 
 
 

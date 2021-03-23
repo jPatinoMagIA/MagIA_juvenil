@@ -3,7 +3,7 @@
 //solo si el producto vale MENOR o igual a 300us 
 const prompt = require("prompt-sync")();
 var precio = prompt("¿Cuál es el valor del producto SIN envío?");
-//calculaPrecio(precio); // JS mueve las llamadas a funciones al principio del ambito por lo que se pueden llamar funciones 
+calculaPrecio(precio); // JS mueve las llamadas a funciones al principio del ambito por lo que se pueden llamar funciones 
                         //antes de declararlas
 function calculaPrecio () {
     if(precio > 300){
