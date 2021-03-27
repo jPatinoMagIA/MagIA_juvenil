@@ -25,3 +25,4 @@ class galleta{
 var galletaObjeto = new galleta("5cm", "fresa", "redonda", "$1.000"); 
 console.log(galletaObjeto.precio);
 
+
