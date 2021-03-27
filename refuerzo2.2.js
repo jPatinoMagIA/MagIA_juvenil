@@ -13,7 +13,6 @@ if(choise == 1){
 } else if(choise == 2){
     desencryp();
 } else (console.log("Número invalido."));
-
 //Declaración de funciones
 function encryp(){ 
     var msn = prompt("Ingresa el mensaje a encriptar: ");
