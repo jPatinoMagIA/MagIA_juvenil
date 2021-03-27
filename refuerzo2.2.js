@@ -12,7 +12,7 @@ if(choise == 1){
     encryp();
 } else if(choise == 2){
     desencryp();
-}
+} else (console.log("Número invalido."));
 
 //Declaración de funciones
 function encryp(){ 
