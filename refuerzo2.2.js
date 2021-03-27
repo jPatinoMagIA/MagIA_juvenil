@@ -1,3 +1,4 @@
+//Este es un ejercicio de refuerzo academico, NO constituye un metodo verdadero de encriptación//
 //REFUERZO 2 -> Crear programa que esconda un mensaje ingresado por prompt
 
 //Declaración de variables
